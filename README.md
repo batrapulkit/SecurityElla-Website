@@ -93,7 +93,7 @@ I started SecurityElla in **2021** because I saw a growing gap between people wh
 Thank you for checking out SecurityElla. 🚀  
 Let’s build a safer internet, together.
 
-— PULKIT BATRA  
+PULKIT BATRA  
 Founder, SecurityElla
 
 ---
