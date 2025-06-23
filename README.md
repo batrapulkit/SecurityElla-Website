@@ -1,73 +1,103 @@
-# Welcome to your Lovable project
+# 🔐 SecurityElla — Your Gateway to Mastering Cybersecurity
 
-## Project info
+Welcome to the official repository for **SecurityElla**, a cybersecurity education platform I launched as my first startup in **2021**. SecurityElla is dedicated to helping individuals and organizations gain hands-on, practical skills in ethical hacking, penetration testing, digital forensics, and more — all through accessible, affordable online courses.
 
-**URL**: https://lovable.dev/projects/2c8be354-ed8b-4971-bd60-c795324d856c
+---
 
-## How can I edit this code?
+## 🚀 About SecurityElla
 
-There are several ways of editing your application.
+Founded in 2021, **SecurityElla** began with a simple mission:  
+💡 *Make cybersecurity education practical, affordable, and available to everyone.*
 
-**Use Lovable**
+Whether you're a complete beginner, a student, a startup founder, or a seasoned tech professional - SecurityElla offers a growing collection of courses designed to help you build and sharpen real-world cybersecurity skills.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2c8be354-ed8b-4971-bd60-c795324d856c) and start prompting.
+We believe in **learning by doing** and strive to make every course actionable, up-to-date, and relevant to today's digital threats.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🎓 Courses Offered
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+We currently offer **18 comprehensive courses**, including:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Cybersecurity Fundamentals  
+- Ethical Hacking  
+- Kali Linux  
+- Penetration Testing  
+- Bug Bounty Hunting  
+- Wireless & Network Security  
+- AI in Cybersecurity  
+- Web Application Security  
+- Cybersecurity for Startups  
+- Red Team vs Blue Team Training  
+- Cybersecurity Risk Management  
+- Digital Forensics  
+- Cybersecurity Leadership & Management  
+...and more.
 
-Follow these steps:
+> 🧠 Learn more about each course on the [Courses Page](https://securityella.com/courses)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🧰 Tech Stack
 
-# Step 3: Install the necessary dependencies.
-npm i
+This website is a fast, responsive static frontend built using:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- ⚛️ **React**  
+- 💨 **Tailwind CSS**  
+- ⚡ **Vite**  
+- 🧩 **Lucide Icons**  
+- 📜 HTML5 & CSS3  
 
-**Edit a file directly in GitHub**
+It is optimized for performance, accessibility, and ease of navigation, while presenting a modern, professional design.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🌐 Connect with SecurityElla
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- 📧 Email: [info@securityella.com](mailto:info@securityella.com)  
+- 📱 Phone: +91 9711885323  
+- 🌍 Website: [www.securityella.com](https://www.securityella.com)
 
-## What technologies are used for this project?
+### 🔗 Follow us:
+- [Facebook](https://facebook.com/securityella)  
+- [Twitter](https://twitter.com/securityella)  
+- [Instagram](https://instagram.com/securityella)  
+- [LinkedIn](https://linkedin.com/company/securityella)  
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🤝 Contributing
 
-## How can I deploy this project?
+SecurityElla is built with a vision of **community-first learning**. If you want to contribute to the codebase, improve features, fix bugs, or suggest a course idea:
 
-Simply open [Lovable](https://lovable.dev/projects/2c8be354-ed8b-4971-bd60-c795324d856c) and click on Share -> Publish.
+1. Fork the repository  
+2. Create a new branch: `git checkout -b your-feature-name`  
+3. Commit your changes  
+4. Push to your fork  
+5. Open a Pull Request  
 
-## Can I connect a custom domain to my Lovable project?
+We welcome all positive contributions! 💙
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 📜 License
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## ✨ A Note from the Founder
+
+I started SecurityElla in **2021** because I saw a growing gap between people who **wanted to learn cybersecurity** and those who had **access to real-world, hands-on training**. This website represents not just a project — but a personal journey, a startup dream, and a small but meaningful step toward a more secure digital world.
+
+Thank you for checking out SecurityElla. 🚀  
+Let’s build a safer internet, together.
+
+— PULKIT BATRA  
+Founder, SecurityElla
+
+---
+
+## ⭐️ Show your support
+
+If you like this project, please consider giving it a ⭐️ on GitHub — it helps more learners discover it!
